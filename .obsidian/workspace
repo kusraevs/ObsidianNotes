@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "41547bc498a6eb20",
+    "type": "split",
+    "children": [
+      {
+        "id": "3835785042c08a3b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "22.04.2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51ad4f8a9c517039",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1108d0ee25b6c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "998bcc7319ffe2cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf0f40c36c279de3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96f5fa32987ea4e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "396a4002c94097b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9a0544e16167504",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "22.04.2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3835785042c08a3b",
+  "lastOpenFiles": [
+    "22.04.2022.md",
+    "Наставники.md",
+    "Антикризис.md",
+    "18.04.2022.md",
+    "Фича автообновления.md",
+    "Гайды по дизайну.md",
+    "1 to 1 Женя(26.04).md",
+    "Сдвоенные события аналитикищи.md",
+    "Цели Георгий Певнев.md"
+  ]
+}
