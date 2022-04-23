@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "eb639d1c5f1fdf9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "18791dcd48b3047b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Парковка внутри дома.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04119052a660a766",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20856540569803e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f45532943aa2e9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58cadf9652897ca5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d40118394b28834",
+    "type": "split",
+    "children": [
+      {
+        "id": "513768fd893366a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f2189ebba24f97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Парковка внутри дома.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18791dcd48b3047b",
+  "lastOpenFiles": [
+    "Парковка внутри дома.md"
+  ]
+}

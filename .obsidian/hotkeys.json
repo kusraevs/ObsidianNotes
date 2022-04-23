@@ -1,0 +1,37 @@
+{
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-git:clone-repo": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "C"
+    }
+  ]
+}
