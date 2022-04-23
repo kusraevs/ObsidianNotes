@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Фича автообновления.md",
+            "file": "22.04.2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фича автообновления.md",
+                "file": "22.04.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,13 @@
   },
   "active": "18791dcd48b3047b",
   "lastOpenFiles": [
-    "Фича автообновления.md",
+    "22.04.2022.md",
+    "НеРабота/Парковка внутри дома.md",
+    "НеРабота/Тимлид фишки.md",
     "Цели Георгий Певнев.md",
+    "Фича автообновления.md",
     "Задачи для собесов.md",
     "1 to 1 Женя(26.04).md",
-    "18.04.2022.md",
-    "Парковка внутри дома.md",
-    "22.04.2022.md"
+    "18.04.2022.md"
   ]
 }
