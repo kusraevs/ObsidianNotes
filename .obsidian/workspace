@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Задачи для собесов.md",
+            "file": "Фича автообновления.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задачи для собесов.md",
+                "file": "Фича автообновления.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "18791dcd48b3047b",
   "lastOpenFiles": [
+    "Фича автообновления.md",
+    "Цели Георгий Певнев.md",
     "Задачи для собесов.md",
     "1 to 1 Женя(26.04).md",
     "18.04.2022.md",
