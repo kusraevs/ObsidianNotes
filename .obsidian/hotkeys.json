@@ -11,8 +11,7 @@
   "obsidian-git:commit": [
     {
       "modifiers": [
-        "Alt",
-        "Meta"
+        "Alt"
       ],
       "key": "C"
     }
