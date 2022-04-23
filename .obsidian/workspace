@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Парковка внутри дома.md",
+            "file": "Задачи для собесов.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Парковка внутри дома.md",
+                "file": "Задачи для собесов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,11 +84,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "18791dcd48b3047b",
   "lastOpenFiles": [
-    "Парковка внутри дома.md"
+    "Задачи для собесов.md",
+    "1 to 1 Женя(26.04).md",
+    "18.04.2022.md",
+    "Парковка внутри дома.md",
+    "22.04.2022.md"
   ]
 }
