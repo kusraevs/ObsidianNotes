@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Задачи для собесов.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задачи для собесов.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "Untitled.md",
     "Задачи для собесов.md",
     "Операция.md",
     "22.04.2022.md",
@@ -96,7 +97,6 @@
     "18.04.2022.md",
     "Фича автообновления.md",
     "Гайды по дизайну.md",
-    "1 to 1 Женя(26.04).md",
-    "Сдвоенные события аналитикищи.md"
+    "1 to 1 Женя(26.04).md"
   ]
 }
