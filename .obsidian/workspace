@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Операция.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Операция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "Операция.md",
     "Untitled.md",
     "Задачи для собесов.md",
-    "Операция.md",
     "22.04.2022.md",
     "Наставники.md",
     "Антикризис.md",
