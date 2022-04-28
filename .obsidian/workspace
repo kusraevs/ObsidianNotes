@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "18.04.2022.md",
+            "file": "Мои финансы.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18.04.2022.md",
+                "file": "Мои финансы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "Мои финансы.md",
     "18.04.2022.md",
     "22.04.2022.md",
     "Антикризис.md",
@@ -96,7 +97,6 @@
     "Задачи для собесов.md",
     "Наставники.md",
     "Фича автообновления.md",
-    "Гайды по дизайну.md",
-    "1 to 1 Женя(26.04).md"
+    "Гайды по дизайну.md"
   ]
 }
