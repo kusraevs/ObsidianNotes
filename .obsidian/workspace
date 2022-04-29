@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Гайды по дизайну.md",
+            "file": "Графана.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Гайды по дизайну.md",
+                "file": "Графана.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "Графана.md",
     "Гайды по дизайну.md",
     "Задачи для собесов.md",
     "30.04.md",
@@ -96,7 +97,6 @@
     "22.04.2022.md",
     "Антикризис.md",
     "Операция.md",
-    "Untitled.md",
-    "Наставники.md"
+    "Untitled.md"
   ]
 }
