@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Мои финансы.md",
+            "file": "Гайды по дизайну.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мои финансы.md",
+                "file": "Гайды по дизайну.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "Гайды по дизайну.md",
+    "Задачи для собесов.md",
+    "30.04.md",
     "Мои финансы.md",
     "18.04.2022.md",
     "22.04.2022.md",
     "Антикризис.md",
     "Операция.md",
     "Untitled.md",
-    "Задачи для собесов.md",
-    "Наставники.md",
-    "Фича автообновления.md",
-    "Гайды по дизайну.md"
+    "Наставники.md"
   ]
 }
