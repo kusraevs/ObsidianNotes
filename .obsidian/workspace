@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Мои команды.md",
+            "file": "Мои финансы.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мои команды.md",
+                "file": "Мои финансы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "Мои финансы.md",
     "Мои команды.md",
     "Графана.md",
     "Антикризис.md",
@@ -96,7 +97,6 @@
     "22.04.2022.md",
     "18.04.2022.md",
     "Задачи для собесов.md",
-    "Мои финансы.md",
     "Операция.md"
   ]
 }
