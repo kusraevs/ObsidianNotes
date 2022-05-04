@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Графана.md",
+            "file": "Мои команды.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Графана.md",
+                "file": "Мои команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "Мои команды.md",
     "Графана.md",
     "Антикризис.md",
     "Гайды по дизайну.md",
@@ -96,7 +97,6 @@
     "18.04.2022.md",
     "Задачи для собесов.md",
     "Мои финансы.md",
-    "Операция.md",
-    "Untitled.md"
+    "Операция.md"
   ]
 }
