@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Фича автообновления.md",
+            "file": "По дням/30.04.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фича автообновления.md",
+                "file": "По дням/30.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "По дням/30.04.md",
     "Фича автообновления.md",
     "По дням/22.04.2022.md",
     "По дням/04.05.2022.md",
-    "По дням/30.04.md",
     "По дням.md",
     "Графана.md",
     "Задачи для собесов.md",
