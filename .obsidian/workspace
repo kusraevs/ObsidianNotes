@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "eb639d1c5f1fdf9a",
+    "id": "41547bc498a6eb20",
     "type": "split",
     "children": [
       {
-        "id": "18791dcd48b3047b",
+        "id": "3835785042c08a3b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Фича автообновления.md",
+            "file": "По дням/05.05.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04119052a660a766",
+    "id": "51ad4f8a9c517039",
     "type": "split",
     "children": [
       {
-        "id": "a20856540569803e",
+        "id": "b1108d0ee25b6c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "6f45532943aa2e9e",
+            "id": "998bcc7319ffe2cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "58cadf9652897ca5",
+            "id": "cf0f40c36c279de3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -55,27 +55,27 @@
     "width": 300
   },
   "right": {
-    "id": "7d40118394b28834",
+    "id": "96f5fa32987ea4e1",
     "type": "split",
     "children": [
       {
-        "id": "513768fd893366a7",
+        "id": "396a4002c94097b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f2189ebba24f97",
+            "id": "a9a0544e16167504",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фича автообновления.md",
+                "file": "По дням/05.05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -83,19 +83,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "18791dcd48b3047b",
+  "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "По дням/05.05.md",
+    "По дням/04.05.2022.md",
+    "По дням/30.04.md",
     "Фича автообновления.md",
-    "29.04.md",
-    "27.04.2022.md",
-    "22.04.2022.md",
-    "НеРабота/Тимлид фишки.md",
-    "НеРабота/Парковка внутри дома.md",
-    "Техцели/Гайды по дизайну.md",
-    "Техцели/Задачи для собесов/Навигация.md",
-    "18.04.2022.md",
     "1 to 1 Женя(26.04).md"
   ]
 }
