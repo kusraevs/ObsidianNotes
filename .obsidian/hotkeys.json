@@ -1,45 +1,27 @@
 {
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Alt",
-<<<<<<< HEAD
-        "Meta"
-=======
-        "Mod"
->>>>>>> 11854919b123f19eb3b31c57765531c1d455680c
-      ],
-      "key": "P"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
-<<<<<<< HEAD
-        "Alt"
+        "Mod"
       ],
       "key": "C"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ],
   "obsidian-git:pull": [
     {
       "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
-  "obsidian-git:clone-repo": [
-    {
-      "modifiers": [
-        "Alt",
-        "Meta"
-=======
         "Alt",
         "Mod"
->>>>>>> 11854919b123f19eb3b31c57765531c1d455680c
       ],
-      "key": "C"
+      "key": "P"
     }
   ]
 }
