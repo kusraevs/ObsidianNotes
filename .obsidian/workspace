@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "По дням/05.05.md",
+            "file": "По дням/22.04.2022.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "По дням/05.05.md",
+                "file": "По дням/22.04.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,11 @@
   },
   "active": "3835785042c08a3b",
   "lastOpenFiles": [
+    "По дням/22.04.2022.md",
+    "По дням/30.04.md",
+    "По дням/18.04.2022.md",
     "По дням/05.05.md",
     "По дням/04.05.2022.md",
-    "По дням/30.04.md",
     "Фича автообновления.md",
     "1 to 1 Женя(26.04).md"
   ]
