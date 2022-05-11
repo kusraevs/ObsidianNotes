@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "41547bc498a6eb20",
+    "id": "eb639d1c5f1fdf9a",
     "type": "split",
     "children": [
       {
-        "id": "3835785042c08a3b",
+        "id": "18791dcd48b3047b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51ad4f8a9c517039",
+    "id": "04119052a660a766",
     "type": "split",
     "children": [
       {
-        "id": "b1108d0ee25b6c4c",
+        "id": "a20856540569803e",
         "type": "tabs",
         "children": [
           {
-            "id": "998bcc7319ffe2cf",
+            "id": "6f45532943aa2e9e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "cf0f40c36c279de3",
+            "id": "58cadf9652897ca5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -55,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "96f5fa32987ea4e1",
+    "id": "7d40118394b28834",
     "type": "split",
     "children": [
       {
-        "id": "396a4002c94097b5",
+        "id": "513768fd893366a7",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a0544e16167504",
+            "id": "f5f2189ebba24f97",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -75,7 +75,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,15 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3835785042c08a3b",
+  "active": "18791dcd48b3047b",
   "lastOpenFiles": [
     "По дням/05.05.md",
-    "По дням/04.05.2022.md",
-    "По дням/30.04.md",
+    "Операция.md",
+    "Цели Георгий Певнев.md",
+    "Фича с баннером на пине.md",
     "Фича автообновления.md",
-    "1 to 1 Женя(26.04).md"
+    "Напрвление.md",
+    "Мои команды.md",
+    "29.04.md",
+    "27.04.2022.md",
+    "22.04.2022.md"
   ]
 }
