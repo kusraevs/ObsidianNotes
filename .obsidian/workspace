@@ -6,23 +6,10 @@
       {
         "id": "18791dcd48b3047b",
         "type": "leaf",
-        "dimension": 50.36585365853659,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "По дням/11.05.2022.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "93f475846c7e7c9b",
-        "type": "leaf",
-        "dimension": 49.63414634146341,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "По дням/05.05.md",
             "mode": "source"
           }
         }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "По дням/11.05.2022.md",
+                "file": "По дням/05.05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +87,15 @@
   },
   "active": "18791dcd48b3047b",
   "lastOpenFiles": [
-    "По дням/11.05.2022.md",
     "По дням/05.05.md",
-    "По дням/18.04.2022.md",
     "По дням/22.04.2022.md",
+    "По дням/18.04.2022.md",
+    "По дням/11.05.2022.md",
+    "conflict-files-obsidian-git.md",
     "1 to 1 Женя(26.04).md",
     "29.04.md",
     "27.04.2022.md",
     "По дням/04.05.2022.md",
-    "НеРабота/Парковка внутри дома.md",
-    "НеРабота/Тимлид фишки.md"
+    "НеРабота/Парковка внутри дома.md"
   ]
 }
