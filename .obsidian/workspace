@@ -6,10 +6,23 @@
       {
         "id": "18791dcd48b3047b",
         "type": "leaf",
+        "dimension": 50.36585365853659,
         "state": {
           "type": "markdown",
           "state": {
             "file": "По дням/05.05.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "93f475846c7e7c9b",
+        "type": "leaf",
+        "dimension": 49.63414634146341,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -83,19 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "18791dcd48b3047b",
   "lastOpenFiles": [
     "По дням/05.05.md",
+    "11.05.2022.md",
+    "По дням/04.05.2022.md",
     "По дням/22.04.2022.md",
-    "По дням/30.04.md",
+    "НеРабота/Парковка внутри дома.md",
+    "НеРабота/Тимлид фишки.md",
+    "НеРабота/Муз школа.md",
     "По дням/18.04.2022.md",
-    "29.04.md",
-    "Мерж в библиотеках с автоинкрементом.md",
-    "Мои команды.md",
-    "Мои финансы.md",
-    "Напрвление.md",
-    "Наставники.md"
+    "conflict-files-obsidian-git.md",
+    "По дням/30.04.md"
   ]
 }
